@@ -1,0 +1,12 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="event1Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c5530;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a3d1e;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#event1Gradient)"/>
+  <ellipse cx="200" cy="150" rx="80" ry="40" fill="#ffffff" opacity="0.2"/>
+  <path d="M 200 110 L 200 190 M 120 150 L 280 150 M 160 130 L 240 170 M 240 130 L 160 170" stroke="#ffffff" stroke-width="3"/>
+  <text x="200" y="250" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">国际精英足球邀请赛</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="event2Gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b4513;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#654321;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#event2Gradient)"/>
+  <circle cx="200" cy="150" r="60" fill="#ffffff" opacity="0.2"/>
+  <path d="M 200 90 L 200 210 M 140 150 L 260 150 M 170 120 L 230 180 M 230 120 L 170 180" stroke="#ffffff" stroke-width="3"/>
+  <text x="200" y="250" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="14">亚洲顶级篮球争霸</text>
+</svg>

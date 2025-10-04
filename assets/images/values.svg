@@ -1,0 +1,13 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="valuesGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#32cd32;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#228b22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#valuesGradient)"/>
+  <polygon points="200,100 250,150 200,200 150,150" fill="#ffffff" opacity="0.2"/>
+  <path d="M 200 100 L 200 200 M 150 150 L 250 150 M 175 125 L 225 175 M 225 125 L 175 175" stroke="#ffffff" stroke-width="3"/>
+  <text x="200" y="250" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16">价值观</text>
+</svg>
+
